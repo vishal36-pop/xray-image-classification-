@@ -6,7 +6,7 @@
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Results](#results)
+- [Metrics](#results)
 
 # About 
 - The project intends to diagnose the pneumonia from the xray image of the patients of ages 1 to 5 years.
@@ -57,8 +57,10 @@
        
        <img width="502" height="358" alt="image" src="https://github.com/user-attachments/assets/6b26fa03-3efb-4580-ba91-e59e3d1ed15a" />
      - now choose your image by browsing
-     - After choosing the image please click on the `get report button`
+     - After choosing the image please click on the `click here to get report` button
      - you are going to see a window getting popped up with your report as this
-     - 
+     - <img width="519" height="339" alt="image" src="https://github.com/user-attachments/assets/cbcf2b0d-8bad-4804-b45c-3025275a917b" />
+- this is how we are supposed to use this interface pretty straight forward
 
+# Metrics
  
