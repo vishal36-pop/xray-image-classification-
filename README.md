@@ -44,4 +44,7 @@
     - `java pneumonia`
   - The application's Graphical User Interface should now appear now
 
-  
+ # Usage
+ - <img width="751" height="593" alt="image" src="https://github.com/user-attachments/assets/0a79be38-4ea4-4db6-abae-b37a3e2cab9d" />
+
+ 
