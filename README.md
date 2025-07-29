@@ -10,4 +10,4 @@
 
 # About 
 -- The project intends to diagnose the pneumonia from the xray image of the patients of ages 1 to 5 years
---
+-- Using the Xray ,We can detect the pneumonia even before the symptoms are visible , this is often seen in the children who are of ages 1 to 4 [source](https://www.ncbi.nlm.nih.gov/books/NBK525772/)
