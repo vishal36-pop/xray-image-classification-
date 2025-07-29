@@ -35,4 +35,13 @@
 
 # Installation
 - No formal installation is required. You simply need to download the project files and run the application from your terminal.
-- 
+## steps to setup 
+  - Clone the Repository :
+    - Open your terminal, navigate to where you want to store the project, and run this command: `git clone https://github.com/your-username/your-repository-name.git`
+  - Running the Application :
+    - `javac pneumonia.java`
+    - after this command is executed
+    - `java pneumonia`
+  - The application's Graphical User Interface should now appear now
+
+  
