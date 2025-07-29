@@ -7,4 +7,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [License](#license)
+
+# About 
+-- The project intends to diagnose the pneumonia from the xray image of the patients of ages 1 to 5 years
+--
