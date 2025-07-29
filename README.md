@@ -45,6 +45,20 @@
   - The application's Graphical User Interface should now appear now
 
  # Usage
- - <img width="751" height="593" alt="image" src="https://github.com/user-attachments/assets/0a79be38-4ea4-4db6-abae-b37a3e2cab9d" />
+<img width="751" height="593" alt="image" src="https://github.com/user-attachments/assets/0a79be38-4ea4-4db6-abae-b37a3e2cab9d" /> 
+
+- You are going to see an interface like this  
+   ### for the first time 
+     - For the time of usage, you have to click on the `install environment` botton on the bottom right of the interface
+     - To check if your environment click the `activate the env` button it should output the python and the torch versions 
+   ### to diagnose
+     - Click on the browse to select the xray
+     - It will open a filechooser like this
+       
+       <img width="502" height="358" alt="image" src="https://github.com/user-attachments/assets/6b26fa03-3efb-4580-ba91-e59e3d1ed15a" />
+     - now choose your image by browsing
+     - After choosing the image please click on the `get report button`
+     - you are going to see a window getting popped up with your report as this
+     - 
 
  
