@@ -63,4 +63,48 @@
 - this is how we are supposed to use this interface pretty straight forward
 
 # Metrics
- 
+ Confusion Matrix
+A confusion matrix is a table showing the performance of the classification model. It displays how many samples from each class were correctly or incorrectly predicted. Here’s what each number means in your matrix:
+[[1314   27]
+ [  38 3837]]
+1314: The model correctly predicted class 0 (True Negatives).
+
+27: The model incorrectly predicted class 1 when it was actually class 0 (False Positives).
+
+38: The model incorrectly predicted class 0 when it was actually class 1 (False Negatives).
+
+3837: The model correctly predicted class 1 (True Positives).
+
+Classification Report
+This report summarizes different metrics for each class:
+
+Class	Precision	Recall	F1-score	Support
+0	0.97	0.98	0.98	1341
+1	0.99	0.99	0.99	3875
+Precision: Out of all the samples predicted as a certain class, how many were actually correct? (Higher is better.)
+
+Recall: Out of all actual samples of a class, how many did the model identify correctly? (Higher is better.)
+
+F1-score: The average of precision and recall, giving a balanced score.
+
+Support: The number of actual samples for each class.
+
+Overall Metrics
+Metric	Score
+Accuracy	0.99
+Macro Avg	0.98 (precision), 0.99 (recall), 0.98 (f1-score)
+Weighted Avg	0.99 (precision), 0.99 (recall), 0.99 (f1-score)
+Total Support	5216
+Accuracy: Overall, the model predicts correctly 99% of the time.
+
+Macro Average: Simple average of the metrics for each class, treating all classes equally.
+
+Weighted Average: Average of metrics for each class, but classes with more samples have more influence.
+
+Total Support: Total number of samples.
+
+In summary:
+Your model is performing very well, correctly identifying both classes with high precision and recall. The accuracy is 99%, and the detailed metrics show consistent performance for both classes.
+
+Let me know if you’d like an even simpler breakdown or a more technical explanation!
+
