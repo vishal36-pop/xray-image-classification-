@@ -103,8 +103,6 @@ Weighted Average: Average of metrics for each class, but classes with more sampl
 
 Total Support: Total number of samples.
 
-In summary:
-Your model is performing very well, correctly identifying both classes with high precision and recall. The accuracy is 99%, and the detailed metrics show consistent performance for both classes.
+<img width="443" height="222" alt="image" src="https://github.com/user-attachments/assets/0c516bc8-2391-48d6-b3cb-cb8ff68bebf9" />
 
-Let me know if you’d like an even simpler breakdown or a more technical explanation!
 
