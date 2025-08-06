@@ -41,13 +41,13 @@ output = model(image)
 predicted = torch.max(output,dim=1)[1]
 if (predicted.item() ==1) :
 
-    print('Result : "pneumonia "',"\n")
+    print('Result : "PNEUMONIA "',"\n")
     print("please visit this website for more information on pneumonia :")
     print("https://my.clevelandclinic.org/health/diseases/4471-pneumonia","\n")
     print("please consider visiting a pulmonologist because the chance of a false positve is only 2%")
 else :
-    print('Result :" pneumonia "',"\n")
+    print('Result :" NORMAL "',"\n")
     print("please visit this website for more information on pneumonia :")
     print("https://my.clevelandclinic.org/health/diseases/4471-pneumonia","\n")
     print("please consider visiting a pulmonologist if you are experiencing any of the symptoms mentioned in the website because","\n")
-    print("Note : there is 1% chance of a false positive result")
+    print("Note : there is 1% chance of a false negative result")
