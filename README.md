@@ -35,6 +35,10 @@
 
 # Installation
 - No formal installation is required. You simply need to download the project files and run the application from your terminal.
+- ## requirements :
+  - python
+  - java  
+    (should be installed in the machine in order to run this graphical interface)
 ## steps to setup 
   - Clone the Repository :
     - Open your terminal, navigate to where you want to store the project, and run this command: `git clone https://github.com/your-username/your-repository-name.git`
